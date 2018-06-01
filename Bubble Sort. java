@@ -1,4 +1,4 @@
-ackage Datastructure;
+package Datastructure;
 
 public class BubbleSort_main {
 	
